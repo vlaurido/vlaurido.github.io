@@ -30,9 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: minima
-#theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+# theme: minima
+theme: bulma-clean-theme
+# remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
